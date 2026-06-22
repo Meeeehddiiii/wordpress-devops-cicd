@@ -1,1 +1,1 @@
-Version 2.0 - Mise à jour automatique via CI/CD
+Version 2.5 - Mise à jour automatique via CI/CD
