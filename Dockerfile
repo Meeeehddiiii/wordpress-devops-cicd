@@ -1,3 +1,3 @@
 FROM wordpress:php8.2-apache
 
-COPY version.txt /var/www/html/version.txt
+COPY version.txt /usr/src/wordpress/version.txt
