@@ -1,1 +1,1 @@
-Version 1.0 - Déploiement initial via GitHub Actions
+Version 2.0 - Mise à jour automatique via CI/CD
